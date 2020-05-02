@@ -1,1 +1,1 @@
-ci-training-cd
+ci-training-cd test
